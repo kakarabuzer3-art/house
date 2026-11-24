@@ -1,0 +1,6 @@
+{
+  "name": "Frostgate Kitchen",
+  "description": "A single-page, full-screen layered scroll-dive hero for Frostgate Kitchen, descending from a snowy lilac mountain monastery through an ice-rock arch into a frozen lake cave.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
